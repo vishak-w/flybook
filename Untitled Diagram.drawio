@@ -137,8 +137,27 @@
         <mxCell id="ZoJhBRZecDHZr6Ya1PSE-51" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="outbox events" vertex="1">
           <mxGeometry height="50" width="80" x="500" y="560" as="geometry" />
         </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-56" edge="1" parent="1" source="ZoJhBRZecDHZr6Ya1PSE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ZoJhBRZecDHZr6Ya1PSE-55" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-57" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.599;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZoJhBRZecDHZr6Ya1PSE-58">
+          <mxGeometry relative="1" x="0.2933" as="geometry">
+            <mxPoint x="600.0000000000002" y="660" as="sourcePoint" />
+            <mxPoint x="690" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZoJhBRZecDHZr6Ya1PSE-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="kafka" vertex="1">
           <mxGeometry height="40" width="120" x="480" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-55" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-58" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="730" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
