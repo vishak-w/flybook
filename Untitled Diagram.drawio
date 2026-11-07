@@ -153,11 +153,29 @@
         <mxCell id="ZoJhBRZecDHZr6Ya1PSE-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="kafka" vertex="1">
           <mxGeometry height="40" width="120" x="480" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-55" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-55" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="payment service" vertex="1">
           <mxGeometry height="60" width="120" x="365" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-58" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-58" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="ticket service" vertex="1">
           <mxGeometry height="60" width="120" x="620" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-59" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="payment DB" vertex="1">
+          <mxGeometry height="60" width="60" x="390" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-60" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZoJhBRZecDHZr6Ya1PSE-59" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="790" as="sourcePoint" />
+            <mxPoint x="410" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-61" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="679.5" y="790" as="sourcePoint" />
+            <mxPoint x="679.5" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-62" parent="1" style="swimlane;" value="s3" vertex="1">
+          <mxGeometry height="40" width="120" x="610" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
