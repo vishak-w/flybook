@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZoJhBRZecDHZr6Ya1PSE-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="flight search and flight schedule" vertex="1">
-          <mxGeometry height="30" width="60" x="210" y="280" as="geometry" />
+          <mxGeometry height="30" width="60" x="170" y="280" as="geometry" />
         </mxCell>
         <mxCell id="ZoJhBRZecDHZr6Ya1PSE-28" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="flight catalog" vertex="1">
           <mxGeometry height="80" width="80" x="130" y="330" as="geometry" />
@@ -79,6 +79,33 @@
             <mxPoint x="330" y="260" as="sourcePoint" />
             <mxPoint x="360" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-40" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="410" as="sourcePoint" />
+            <mxPoint x="170" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-41" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="329" y="410" as="sourcePoint" />
+            <mxPoint x="329" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-42" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="410" as="sourcePoint" />
+            <mxPoint x="540" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-43" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="catalog DB" vertex="1">
+          <mxGeometry height="70" width="60" x="140" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-44" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="inventory DB" vertex="1">
+          <mxGeometry height="70" width="60" x="300" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-45" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="booking DB" vertex="1">
+          <mxGeometry height="70" width="60" x="510" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
