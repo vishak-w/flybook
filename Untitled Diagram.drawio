@@ -4,8 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="270" y="120" as="geometry" />
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="API gateway" vertex="1">
+          <mxGeometry height="30" width="120" x="270" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-7" edge="1" parent="1" source="ZoJhBRZecDHZr6Ya1PSE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" x="-0.6667" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="50" />
+              <mxPoint x="330" y="50" />
+            </Array>
+            <mxPoint x="330" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Customer/Admin" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-9" edge="1" parent="1" source="ZoJhBRZecDHZr6Ya1PSE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ZoJhBRZecDHZr6Ya1PSE-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="http/rest" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
