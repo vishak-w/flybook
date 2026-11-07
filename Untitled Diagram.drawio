@@ -186,6 +186,15 @@
         <mxCell id="ZoJhBRZecDHZr6Ya1PSE-65" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="notification service" vertex="1">
           <mxGeometry height="80" width="120" x="490" y="920" as="geometry" />
         </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-67" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;width=13;endSize=6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="549.5" y="1000" as="sourcePoint" />
+            <mxPoint x="549.5" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZoJhBRZecDHZr6Ya1PSE-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="email/simulator" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="1070" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
